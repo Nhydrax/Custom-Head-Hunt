@@ -1,0 +1,13 @@
+{
+  "command.chh.head_added": "Head %1$s has been added !",
+  "command.chh.head_already_exists": "Head %1$s already exists !",
+  "command.chh.head_removed": "Head %1$s has been removed !",
+  "command.chh.head_not_in_list": "Head %1$s was not in the list !",
+  "command.chh.not_a_head": "Block at %1$s is not a player head !",
+  "command.chh.blockpos_error": "An error occurred when trying to retrieve position : %1$s",
+  "chh.head_found": "You found a new one !",
+  "chh.head_already_found": "You already found that one",
+  "chh.reward_received": "You received a reward, check your inventory !",
+  "command.chh.all_head_found": "You found everything. Congratulation !",
+  "command.chh.progress_feedback": "You found %1$s head(s) over %2$s. Keep going !"
+}

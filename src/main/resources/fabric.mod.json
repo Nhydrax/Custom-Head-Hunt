@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "chh",
+	"version": "${version}",
+
+	"name": "Custom Head Hunt",
+	"description": "A server mod allowing for custom head hunt (easter eggs, christmas gifts, mini games, etc...)",
+	"authors": [
+		"Nhydrax"
+	],
+	"contact": {
+		"homepage": "https://github.com/Nhydrax/Custom-Head-Hunt-mod",
+		"sources": "https://github.com/Nhydrax/Custom-Head-Hunt-mod",
+		"issues": "https://github.com/Nhydrax/Custom-Head-Hunt-mod/issues"
+	},
+
+	"license": "CC0-1.0",
+	"icon": "assets/chh/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "fr.nhydrax.customheadhunt.CustomHeadHuntMod"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.14.10",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": ">=0.70.0"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

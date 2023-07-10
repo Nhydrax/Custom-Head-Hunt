@@ -1,0 +1,13 @@
+{
+  "command.chh.head_added": "T\u00EAte %1$s ajout\u00E9e !",
+  "command.chh.head_already_exists": "T\u00EAte %1$s existe d\u00E9j\u00E0 !",
+  "command.chh.head_removed": "T\u00EAte %1$s retir\u00E9e !",
+  "command.chh.head_not_in_list": "T\u00EAte %1$s non enregistr\u00E9e !",
+  "command.chh.not_a_head": "Le bloc en %1$s n'est pas une T\u00EAte de joueur !",
+  "command.chh.blockpos_error": "Une erreur est survenue lors de la r\u00E9cup\u00E9ration des coordonn\u00E9es : %1$s",
+  "chh.head_found": "Vous avez trouv\u00E9 une nouvelle T\u00EAte !",
+  "chh.head_already_found": "Vous avez d\u00E9j\u00E0 trouv\u00E9 cette T\u00EAte",
+  "chh.reward_received": "Vous avez re\u00E7u une r\u00E9compense, v\u00E9rifiez votre inventaire !",
+  "command.chh.all_head_found": "Vous avez tout trouv\u00E9. F\u00E9licitations !",
+  "command.chh.progress_feedback": "Vous avez trouv\u00E9 %1$s T\u00EAte(s) sur %2$s. Au boulot !"
+}
